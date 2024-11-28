@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "accessibility.signals.lineHasError": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "java.debug.settings.onBuildFailureProceed": true
+}

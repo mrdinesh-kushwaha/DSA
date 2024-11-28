@@ -1,0 +1,1 @@
+   if(temp.size()==0) cout<<"{}";
